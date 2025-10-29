@@ -1,0 +1,45 @@
+# CASN Revolutionary AI Requirements
+# Minimal dependencies - No heavy ML frameworks required!
+# This is the beauty of cognitive architecture over neural networks
+
+# Core Python dependencies (standard library mostly)
+# Python 3.8+ required
+
+# Data structures and typing (built into Python 3.8+)
+# dataclasses - For structured Knowledge and Context objects
+# typing - For type hints and better code documentation
+# hashlib - For knowledge deduplication
+# datetime - For temporal tracking and provenance
+# json - For data serialization and storage
+
+# No external dependencies required for basic CASN functionality!
+# The revolutionary architecture works with pure Python
+
+# Optional enhancements for production use (commented out for minimal prototype):
+# sentence-transformers>=2.2.0    # For semantic similarity in knowledge search
+# networkx>=3.0                   # For advanced graph-based knowledge storage
+# neo4j>=5.0                      # For distributed knowledge graphs
+# numpy>=1.21.0                   # For numerical computations in advanced features
+# scikit-learn>=1.0               # For clustering and dimensionality reduction
+# pandas>=1.5.0                   # For data analysis and knowledge management
+
+# Development and testing dependencies:
+# pytest>=7.0                     # For comprehensive test suite
+# black>=22.0                     # For code formatting
+# mypy>=1.0                       # For type checking
+
+# Documentation dependencies:
+# sphinx>=5.0                     # For generating documentation
+# sphinx-rtd-theme>=1.2           # For beautiful documentation theme
+
+# Note: The core CASN architecture is intentionally lightweight
+# Unlike neural networks that require massive frameworks (PyTorch, TensorFlow),
+# CASNs work with minimal dependencies, proving their efficiency
+
+# For comparison:
+# - PyTorch: ~800MB download, thousands of dependencies
+# - TensorFlow: ~500MB download, complex dependency tree
+# - CASN: ~0MB additional dependencies, pure Python intelligence
+
+# This is the paradigm shift: 
+# Intelligence through architecture, not through massive computation
